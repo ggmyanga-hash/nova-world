@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "NOVA WORLD",
+    "slug": "nova-world",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.novaworld.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
